@@ -9,7 +9,7 @@ This repository is a step-by-step guide to learning Python programming. It cover
 ## How to Use This Repository  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Learn-Python.git
+   git clone https://github.com/infotovikas/Learn-Python.git   
 
 2. Explore the folders based on your skill level.
 3. Run the .py files and practice the exercises provided.
